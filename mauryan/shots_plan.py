@@ -25,7 +25,7 @@ plan = []
 for k,(a,b,t) in enumerate(BEATS):
     s, e = T[a]["start"], T[b]["end"]
     d = e - s
-    n = math.ceil(d/8.0) if t=="V" else (math.ceil(d/2.5) if t=="I" else 1)
+    n = math.ceil(d/9.0) if t=="V" else (math.ceil(d/2.5) if t=="I" else 1)
     plan.append(dict(beat=k+1, s=a, e=b, type=t, start=round(s,2), end=round(e,2), dur=round(d,2), n=n))
 json.dump(plan, open("shots_plan.json","w"), indent=1)
 from collections import Counter

@@ -1,0 +1,63 @@
+g001 · 0:29.5 · 3.9s
+Title card on dark night background with drifting embers: 'आज की रात' then big title 'चाणक्य और चंद्रगुप्त मौर्य', soft reverb glow
+
+g002 · 0:56.7 · 5.9s
+Animated counters: elephant icon + 'हज़ारों हाथी' counts up, soldier icon + 'लाखों सैनिक' counts up; caption 'यूनानी लेखकों के अनुसार'
+
+g003 · 1:39.4 · 3.3s
+Three words appear one by one with ink-brush reveal: 'राजनीति' · 'अर्थशास्त्र' · 'युद्धनीति'
+
+g004 · 3:48.2 · 5.6s
+Date '305 ईसा पूर्व' then a palm-leaf scroll unrolls with the word 'संधि' and a wax-seal stamp lands
+
+g005 · 5:06.5 · 4.3s
+Infographic: 30 small official icons arrange into 6 groups of 5; title 'शहर की 6 समितियाँ'
+
+g006 · 5:10.9 · 4.3s
+Labels pop beside groups: 'व्यापार', 'विदेशी मेहमान', 'जन्म-मृत्यु का हिसाब' ...
+
+g007 · 5:28.7 · 6.4s
+Quote card on parchment texture: “प्रजा के सुख में ही राजा का सुख है।” — चाणक्य (अर्थशास्त्र)
+
+g008 · 6:11.1 · 4.6s
+Teaser card: 'भाग 2' then 'सम्राट अशोक और कलिंग' with a red ember glow
+
+g009 · 6:15.7 · 4.6s
+End card: channel name 'रात और रिवर्ब', subscribe button animation, 'शुभ रात्रि'
+
+g010 · 6:52.8 · 3.4s
+Title card: 'आज की रात' then big title 'सम्राट अशोक'
+
+g011 · 7:08.3 · 4.2s
+Name card: 'बिंदुसार' with subtitle 'अमित्रघात = शत्रुओं का नाश करने वाला'
+
+g012 · 7:12.6 · 4.2s
+Family tree: चंद्रगुप्त → बिंदुसार → अशोक, lines drawing in
+
+g013 · 9:01.6 · 4.4s
+Counter rolls up to '1,50,000' with label 'बंदी'
+
+g014 · 9:06.0 · 4.4s
+Counter rolls up to '1,00,000' with label 'मारे गए' and then 'उससे कई गुना…' fades in; source line 'अशोक का 13वाँ शिलालेख'
+
+g015 · 9:58.5 · 4.5s
+Text card: 'धम्म' big, then smaller line 'कोई नया धर्म नहीं — नैतिकता का रास्ता'
+
+g016 · 11:00.5 · 4.4s
+Four panels slide in side by side: 'ब्राह्मी', 'खरोष्ठी', 'यूनानी', 'अरामाइक' each with a stylised stone texture
+
+g017 · 11:04.8 · 4.4s
+The four panels shrink onto small pins on a mini map
+
+g018 · 11:29.0 · 4.7s
+The Lion Capital line art morphs into the National Emblem outline with label 'राष्ट्रीय प्रतीक'
+
+g019 · 11:33.8 · 4.7s
+The wheel from the capital spins and slides into the centre of the tricolour flag
+
+g020 · 12:19.1 · 4.8s
+Timeline bar: '321 ईसा पूर्व — चंद्रगुप्त' to '185 ईसा पूर्व — बृहद्रथ', line draws across
+
+g021 · 12:23.9 · 4.8s
+Big number '137 साल' appears over the timeline
+

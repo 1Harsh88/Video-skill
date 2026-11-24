@@ -1,0 +1,111 @@
+m001 · 0:33.4 · 4.8s
+Dark 3D relief map of the Indian subcontinent ~400 BCE; sixteen Mahajanapadas light up one by one as glowing regions with small labels
+
+m002 · 0:38.2 · 4.4s
+Camera flies down to the Ganga plain; Magadha region fills with gold light, rivers Ganga, Son and Gandak glow blue
+
+m003 · 0:42.5 · 4.4s
+Pin drops on Pataliputra with label 'पाटलिपुत्र (आज का पटना)', light ring pulse
+
+m004 · 0:46.9 · 3.3s
+Fertile fields icon: green wave spreads along the Ganga inside Magadha
+
+m005 · 0:50.2 · 3.3s
+Elephant icons appear in the forests and iron icons in the southern hills of Magadha
+
+m006 · 1:10.5 · 6.3s
+Red arrow traces Alexander's route from Persia over the Hindu Kush to the Indus and Punjab, label '326 ईसा पूर्व'
+
+m007 · 1:25.5 · 5.0s
+Alexander's arrow turns back west along the Indus; the north-west flickers red (chaos)
+
+m008 · 1:30.5 · 4.5s
+Camera glides north-west to Taxila; pin with label 'तक्षशिला'
+
+m009 · 1:35.0 · 4.5s
+Zoom into Taxila: small 3D model of an ancient monastery-university courtyard on the hill
+
+m010 · 3:04.4 · 5.8s
+Green fill starts at Taxila and spreads across Punjab
+
+m011 · 3:10.2 · 5.8s
+Small warrior icons rise across Punjab; Greek outposts (blue dots) blink out one by one
+
+m012 · 3:16.0 · 4.0s
+Green arrow sweeps east down the Ganga plain and strikes Magadha
+
+m013 · 3:34.5 · 4.3s
+Seleucid empire shown in the west (Persia to Afghanistan) in orange with label 'सेल्यूकस'
+
+m014 · 3:38.8 · 4.3s
+Orange arrow pushes east toward the Indus; green Mauryan border glows in response
+
+m015 · 3:53.8 · 6.4s
+Arachosia, Gedrosia and Paropamisadae (Afghanistan / Baluchistan) flip from orange to Mauryan green
+
+m016 · 4:14.2 · 5.7s
+Elephant icons march west along a dotted line from the Indus across Persia to Anatolia; label 'इप्सस का युद्ध, 301 ईसा पूर्व'
+
+m017 · 4:28.4 · 5.2s
+Camera pulls back wide: full Mauryan empire from the Hindu Kush to Bengal glows green; label 'मौर्य साम्राज्य'
+
+m018 · 4:48.7 · 4.0s
+Modern map of Patna with pins on Kumhrar and Bulandi Bagh excavation sites; satellite-style texture
+
+m019 · 5:45.5 · 5.6s
+Dotted path from Pataliputra south through the Deccan to Shravanabelagola in Karnataka
+
+m020 · 5:51.1 · 5.6s
+Zoom to Chandragiri hill at Shravanabelagola, pin with label 'श्रवणबेलगोला'
+
+m021 · 6:20.3 · 5.2s
+Camera flies to the Odisha coast; Kalinga region and the Daya river highlighted; label '261 ईसा पूर्व'
+
+m022 · 6:56.2 · 6.1s
+Recap: Magadha glows, then expansion animation replays quickly
+
+m023 · 7:02.2 · 6.1s
+Full empire under Chandragupta, Hindu Kush to Bengal
+
+m024 · 7:16.8 · 5.3s
+Empire grows south into Karnataka under Bindusara
+
+m025 · 7:22.1 · 5.3s
+Only Kalinga on the east coast (and the far Tamil south) stay uncoloured; Kalinga pulses red
+
+m026 · 7:42.0 · 4.4s
+Pin on Ujjain (Avanti) with label 'उज्जैन'
+
+m027 · 7:46.4 · 4.4s
+Pin on Taxila with a dotted line from Ujjain, small flame icon on Taxila (revolt)
+
+m028 · 8:19.4 · 4.4s
+Mauryan army arrow from Pataliputra south-east toward Kalinga
+
+m029 · 8:23.7 · 4.4s
+Close-up of Kalinga with the Daya river and Dhauli hill highlighted
+
+m030 · 8:28.1 · 4.6s
+Kalinga coastline with port pins; ship icons sail out
+
+m031 · 8:32.7 · 4.6s
+Sea-trade routes from Kalinga to Sri Lanka and Southeast Asia drawn as glowing arcs
+
+m032 · 10:48.2 · 6.2s
+Edict pins appear in the north-west and west: Kandahar, Shahbazgarhi, Girnar
+
+m033 · 10:54.3 · 6.2s
+Edict pins appear in the east and south: Dhauli, Jaugada, Maski, Sarnath, Lumbini; all pins glow together
+
+m034 · 11:38.5 · 3.9s
+Glowing arrow from Pataliputra to Sri Lanka
+
+m035 · 11:42.4 · 3.9s
+Arrows from Pataliputra west to the Hellenistic kingdoms (Syria, Egypt, Macedonia)
+
+m036 · 11:57.0 · 5.7s
+The Mauryan border shrinks inward and cracks into separate pieces
+
+m037 · 12:28.6 · 5.3s
+Modern map of India with surviving Mauryan sites glowing: Patna, Sarnath, Sanchi, Dhauli, Girnar, Lauriya Nandangarh
+
