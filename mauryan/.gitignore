@@ -3,3 +3,4 @@ audio/*.raw
 audio/*.wav
 __pycache__/
 media/
+final_out/
