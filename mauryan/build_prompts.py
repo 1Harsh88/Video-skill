@@ -1,8 +1,8 @@
 import json, math, re
 from prompts_data import BIBLE, V, I, M
 T = json.load(open("audio/timeline.json")); P = json.load(open("shots_plan.json"))
-VSTYLE = ("Style: cinematic photoreal historical epic, ancient India (4th-3rd century BCE), moody night palette, warm oil-lamp and torch light "
-          "against deep blue shadows, soft haze, subtle film grain. Avoid: text, letters, logos, subtitles, watermarks, modern objects, extra limbs, distorted faces. "
+VSTYLE = ("Style: cinematic photoreal historical epic, ancient India (4th-3rd century BCE), moody cinematic palette, warm light "
+          "against deep shadows, soft haze, subtle film grain. Avoid: text, letters, logos, subtitles, watermarks, modern objects, extra limbs, distorted faces. "
           "Aspect ratio 16:9, {d} seconds.")
 ISTYLE = ("Cinematic photoreal still image, ancient India (4th-3rd century BCE), dramatic chiaroscuro lighting, moody warm-and-teal palette, "
           "rich detail, shallow depth of field, 16:9 aspect ratio. No text, no letters, no logos, no watermark.")
